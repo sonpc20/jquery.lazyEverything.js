@@ -40,7 +40,9 @@ function YourPage()
             FB.XFBML.parse(element[0]);
     }
 }
+
 in Html
+
 <img data-src='sonpc20.logo.png' data-lazy="lazyImage" />
 <section class="comment-container section section-comment" data-lazy="lazyFbComment" data-fb-url="http://sonpc20.com"></section>
 
